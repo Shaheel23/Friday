@@ -5,6 +5,8 @@ import wikipedia
 import webbrowser
 import os
 
+
+print("Hellooo World")
 def takecommand():
     #It takes input from user and return string output
 
